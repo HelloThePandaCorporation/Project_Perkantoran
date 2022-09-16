@@ -1,0 +1,14 @@
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\bin\Debug\netcoreapp3.1\Project_Perkantoran_C.exe
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\bin\Debug\netcoreapp3.1\Project_Perkantoran_C.deps.json
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\bin\Debug\netcoreapp3.1\Project_Perkantoran_C.runtimeconfig.json
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\bin\Debug\netcoreapp3.1\Project_Perkantoran_C.runtimeconfig.dev.json
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\bin\Debug\netcoreapp3.1\Project_Perkantoran_C.dll
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\bin\Debug\netcoreapp3.1\Project_Perkantoran_C.pdb
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\obj\Debug\netcoreapp3.1\Project_Perkantoran_C.csproj.AssemblyReference.cache
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\obj\Debug\netcoreapp3.1\Project_Perkantoran_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\obj\Debug\netcoreapp3.1\Project_Perkantoran_C.AssemblyInfoInputs.cache
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\obj\Debug\netcoreapp3.1\Project_Perkantoran_C.AssemblyInfo.cs
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\obj\Debug\netcoreapp3.1\Project_Perkantoran_C.csproj.CoreCompileInputs.cache
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\obj\Debug\netcoreapp3.1\Project_Perkantoran_C.dll
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\obj\Debug\netcoreapp3.1\Project_Perkantoran_C.pdb
+C:\Users\irvan\Documents\Pelatihan Metrodata\Project_Perkantoran_C\Project_Perkantoran_C\obj\Debug\netcoreapp3.1\Project_Perkantoran_C.genruntimeconfig.cache
